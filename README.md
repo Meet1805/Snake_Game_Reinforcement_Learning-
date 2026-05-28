@@ -1,5 +1,7 @@
 # Snake Game AI using Deep Q-Network (DQN)
 
+**Owner / Author:** Meet Kanani
+
 ## Project Overview
 This project is an intelligent Snake Game AI that learns to play the classic Snake game automatically using Reinforcement Learning. It implements a Deep Q-Network (DQN) to teach the snake how to find food, avoid walls, and avoid hitting its own tail. The agent learns entirely through trial and error (rewards and penalties) and progressively improves its score over time.
 
